@@ -1,0 +1,161 @@
+@media only screen and (max-width:1250px){
+  .countner1 {
+    margin: 4px 33px;
+  }
+
+  .countner2 {
+    margin: 4px 33px;
+  }
+  .topdistros img{
+    width: 1022px;
+  }
+}
+
+@media only screen and (max-width:1055px){
+
+  .countner1 {
+    margin: 3px 30px;
+  }
+
+  .countner2 {
+    margin: 3px 30px;
+  }
+  .topdistros img{
+    width: 902px;
+  }
+}
+
+@media only screen and (max-width:946px){
+  .countner1 {
+    margin: 2px 25px;
+  }
+
+  .countner2 {
+    margin: 2px 25px;
+  }
+  .topdistros img{
+    width: 850px;
+  }
+}
+
+
+@media only screen and (max-width:924px){
+
+  .countner1 {
+    margin: 1px 10px;
+    width:800;
+  }
+
+  .countner2 {
+    margin: 1px 10px;
+    width:800;
+  }
+  .topdistros img{
+    width: 800px;
+  }
+
+  .steps img{
+    margin: 1px;
+    width: 800px;
+  }
+}
+
+@media only screen and (max-width:856px){
+
+  .countner1 {
+    margin: 1px 10px;
+    width:700;
+  }
+
+  .countner2 {
+    margin: 1px 10px;
+    width:700;
+  }
+  .topdistros img{
+    width: 700px;
+  }
+
+  .steps img{
+    margin: 1px;
+    width: 700px;
+  }
+  .windoToLinux img{
+    width:700px;
+    margin: 3px;
+  }
+
+
+  @media only screen and (max-width:710px){
+  
+    .countner1 {
+      margin: 1px 10px;
+      width:700;
+    }
+
+    .countner2 {
+      margin: 1px 10px;
+      width:600;
+    }
+    .topdistros img{
+      width: 600px;
+    }
+
+    .steps img{
+      margin: 1px;
+      width: 600px;
+    }
+    .windoToLinux img{
+      width:600px;
+      margin: 3px;
+    }
+}
+
+
+@media only screen and (max-width:553px){
+
+  .countner1 {
+    margin: 1px 10px;
+    width:500;
+  }
+
+  .countner2 {
+    margin: 1px 10px;
+    width:500;
+  }
+  .topdistros img{
+    width: 500px;
+  }
+
+  .steps img{
+    margin: 1px;
+    width: 500px;
+  }
+  .windoToLinux img{
+    width:500px;
+    margin: 3px;
+  }
+
+
+  @media only screen and (max-width:518px){
+
+    .countner1 {
+      margin: 1px 10px;
+      width:450px;
+    }
+
+    .countner2 {
+      margin: 1px 10px;
+      width:450px;
+    }
+    .topdistros img{
+      width: 450px;
+    }
+
+    .steps img{
+      margin: 1px;
+      width: 450px;
+    }
+    .windoToLinux img{
+      width:450px;
+      margin: 3px;
+    }

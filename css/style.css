@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Roboto+Flex:opsz@8..144&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Koulen&family=Roboto+Flex:opsz@8..144&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Koulen&family=Roboto+Flex:opsz@8..144&family=Zilla+Slab:wght@300&display=swap');
+
+.navc {
+  color: white;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin: 9px;
+}
+
+.card img {
+  border: 2px solid red;
+  border-radius: 9px;
+}
+
+.countner1 {
+  margin: 8px 342px;
+}
+
+.countner1 h1 {
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+    background: #87a4ad;
+}
+.countner1 h2{
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+  background: #87a4ad;
+}
+.paragraph1 p {
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 23px;
+}
+.paragraph2 p{
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 23px;
+}
+
+.paragraph3 p {
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 23px;
+}
+
+.steps li{
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+  background: #b98ef2;
+  font-size: 25px;
+}
+.steps p{
+  font-family: 'Alfa Slab One', cursive;
+
+font-family: 'Koulen', cursive;
+
+font-family: 'Roboto Flex', sans-serif;
+
+font-family: 'Zilla Slab', serif;
+font-size: 24px;
+}
+.steps img{
+  margin: 5px;
+}
+.countner2 {
+  margin: 8px 342px;
+}
+
+.countner2 h1 {
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Koulen', cursive;
+  font-family: 'Roboto Flex', sans-serif;
+    background: #87a4ad;
+}
+
+.topdistros img{
+  width: 1222px;
+}
+
+.paragraph4 p{
+  font-family: 'Alfa Slab One', cursive;
+
+font-family: 'Koulen', cursive;
+
+font-family: 'Roboto Flex', sans-serif;
+
+font-family: 'Zilla Slab', serif;
+font-size: 24px;
+}
+
+.navbarss a{
+  border: 2px solid red;
+  border-radius: 2px;
+  font-size: 100px;
+}
